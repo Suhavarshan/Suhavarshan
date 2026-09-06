@@ -1,4 +1,4 @@
-<head><meta name="google-site-verification" content="K1eJ2vONRzwOh3PgrFG5pcJjyQRsQsC_pF8WT4YdwoM" /></head>
+<meta name="google-site-verification" content="K1eJ2vONRzwOh3PgrFG5pcJjyQRsQsC_pF8WT4YdwoM" />
 
 # Hi, I'm Suhavarshan 👋
 
