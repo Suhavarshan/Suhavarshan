@@ -1,49 +1,105 @@
-<meta name="google-site-verification" content="K1eJ2vONRzwOh3PgrFG5pcJjyQRsQsC_pF8WT4YdwoM" />
+# 👋 Hi, I'm Suhavarshan
 
-# Hi, I'm Suhavarshan 👋
+### 💻 Web Development Learner | Building • Learning • Creating
 
-💻 Web Development Learner | 🐍 Python Learner | 🚀 Project Builder
+Welcome to my GitHub profile!
 
-I'm a student passionate about learning technology, building projects, and improving my skills step by step.
+I'm learning web development by building real projects, experimenting with new technologies, and continuously improving my skills.
 
-I enjoy creating simple websites, exploring programming, and learning how technology works.
+---
 
-## 🚀 About Me
+## 🚀 Featured Project
 
-- 🌱 Currently learning **Python, HTML & CSS**
-- 💻 Building projects to improve my **Web Development** skills
-- 📈 Creator of **Stocks-School**
-- 🎮 Exploring **Game Development**
-- 📚 Always learning something new
-- 🎯 Goal: Become a skilled developer and build useful projects
+### 📈 Stocks School
 
-## 🛠️ Skills
+A beginner-friendly educational website focused on understanding stock-market basics and fundamentals.
 
-### Currently Working With
+**Built with:**
 
-- HTML
-- CSS
-- Python
-- Git
-- GitHub
+* HTML5
+* CSS3
+* GitHub Pages
 
-### Learning Next
+🌐 **Live Website:**
+https://suhavarshan.github.io/Stocks-School/
 
-- JavaScript
-- Advanced Web Development
+---
 
-## 📌 Featured Project
+## 🔮 Upcoming Project
 
-### 📈 Stocks-School
+### ⚡ SkillVerse
 
-A beginner-friendly educational website that explains the basics and fundamentals of the stock market in **English and Tamil**.
+**SkillVerse** is my upcoming skill-development website focused on helping learners explore and develop practical technology skills.
 
-🔗 [View Stocks-School](https://suhavarshan.github.io/Stocks-School/)
+The project will start with **Web Development** and is planned to grow into a structured learning platform covering different technology-related skills.
 
-## 📚 What I'm Learning
+### 🎯 Planned Focus
+
+* 🌐 Web Development
+* 🧱 HTML & CSS
+* ⚡ JavaScript
+* 🐍 Python
+* 🛠️ Practical Projects
+* 🗺️ Learning Roadmaps
+* 📚 Skill Development Resources
+
+> 🚧 **SkillVerse is currently under development.**
+
+---
+
+## 🛠️ Technologies I'm Learning
 
 ```text
-Web Development  ███████░░░  Learning
-Python           ██████░░░░  Learning
-Git & GitHub     ███████░░░  Practicing
-JavaScript       ██░░░░░░░░  Next
+HTML        █████████░
+CSS         ████████░░
+JavaScript  ███░░░░░░░
+Python      ███████░░░
+Git & GitHub ███████░░░
+```
+
+---
+
+## 📚 Current Learning Journey
+
+```text
+HTML & CSS
+     ↓
+JavaScript
+     ↓
+Web Development
+     ↓
+Practical Projects
+     ↓
+SkillVerse
+```
+
+---
+
+## 💡 My Approach
+
+I believe the best way to learn development is by **building real projects**.
+
+> **Code • Build • Learn • Repeat**
+
+---
+
+## 📌 Projects
+
+| Project          | Status      | Technology      |
+| ---------------- | ----------- | --------------- |
+| 📈 Stocks School | ✅ Completed | HTML, CSS       |
+| ⚡ SkillVerse     | 🚧 Upcoming | Web Development |
+
+---
+
+## 🌱 What's Next?
+
+I'm continuing to learn, build new projects, and improve my development skills.
+
+**More projects coming soon... 🚀**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep learning. Keep building.**
